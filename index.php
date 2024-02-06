@@ -235,7 +235,7 @@
     <!-- SECTION - III (Customer reviews)-->
     <section class="section4" id="section4">
 
-        <h1>CUSTOMER REVIEWS</h1>
+        <h1>CUSTOMER REVIEW</h1>
 
         <div class="slide-container swiper" style="padding: 40px 40px;">
             <div class="slide-content">
